@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="chelDemo" Database="" Version="10.0.0">
+  <Project Name="variableDemo" Path="variableDemo/variableDemo.project" Active="No"/>
+  <Project Name="helloWorldDemo" Path="helloWorldDemo/helloWorldDemo.project" Active="No"/>
+  <Project Name="outputDemo" Path="outputDemo/outputDemo.project" Active="No"/>
+  <Project Name="commentDemo" Path="commentDemo/commentDemo.project" Active="No"/>
+  <Project Name="inputDemo" Path="inputDemo/inputDemo.project" Active="No"/>
+  <Project Name="ifElseIfDemo" Path="ifElseIfDemo/ifElseIfDemo.project" Active="No"/>
+  <Project Name="scopeDemo" Path="scopeDemo/scopeDemo.project" Active="No"/>
+  <Project Name="tabbingDemo" Path="tabbingDemo/tabbingDemo.project" Active="No"/>
+  <Project Name="obfuscatedDemo" Path="obfuscatedDemo/obfuscatedDemo.project" Active="No"/>
+  <Project Name="whileDemo" Path="whileDemo/whileDemo.project" Active="Yes"/>
+  <Project Name="functionDemo" Path="functionDemo/functionDemo.project" Active="No"/>
+  <Project Name="headerDemo" Path="headerDemo/headerDemo.project" Active="No"/>
+  <Project Name="referenceDemo" Path="referenceDemo/referenceDemo.project" Active="No"/>
+  <Project Name="structDemo" Path="structDemo/structDemo.project" Active="No"/>
+  <Project Name="arrayDemo" Path="arrayDemo/arrayDemo.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="helloWorldDemo" ConfigName="Debug"/>
+      <Project Name="variableDemo" ConfigName="Debug"/>
+      <Project Name="helloWorldDemo" ConfigName="Debug"/>
+      <Project Name="outputDemo" ConfigName="Debug"/>
+      <Project Name="commentDemo" ConfigName="Debug"/>
+      <Project Name="inputDemo" ConfigName="Debug"/>
+      <Project Name="ifElseIfDemo" ConfigName="Debug"/>
+      <Project Name="scopeDemo" ConfigName="Debug"/>
+      <Project Name="tabbingDemo" ConfigName="Debug"/>
+      <Project Name="obfuscatedDemo" ConfigName="Debug"/>
+      <Project Name="whileDemo" ConfigName="Debug"/>
+      <Project Name="functionDemo" ConfigName="Debug"/>
+      <Project Name="headerDemo" ConfigName="Debug"/>
+      <Project Name="referenceDemo" ConfigName="Debug"/>
+      <Project Name="structDemo" ConfigName="Debug"/>
+      <Project Name="arrayDemo" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="helloWorldDemo" ConfigName="Release"/>
+      <Project Name="variableDemo" ConfigName="Release"/>
+      <Project Name="helloWorldDemo" ConfigName="Release"/>
+      <Project Name="outputDemo" ConfigName="Release"/>
+      <Project Name="commentDemo" ConfigName="Release"/>
+      <Project Name="inputDemo" ConfigName="Release"/>
+      <Project Name="ifElseIfDemo" ConfigName="Release"/>
+      <Project Name="scopeDemo" ConfigName="Release"/>
+      <Project Name="tabbingDemo" ConfigName="Release"/>
+      <Project Name="obfuscatedDemo" ConfigName="Release"/>
+      <Project Name="whileDemo" ConfigName="Release"/>
+      <Project Name="functionDemo" ConfigName="Release"/>
+      <Project Name="headerDemo" ConfigName="Release"/>
+      <Project Name="referenceDemo" ConfigName="Release"/>
+      <Project Name="structDemo" ConfigName="Release"/>
+      <Project Name="arrayDemo" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/math.cpp.o   
